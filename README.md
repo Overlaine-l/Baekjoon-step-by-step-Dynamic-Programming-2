@@ -107,4 +107,4 @@ def disable():
 ~~~
 
 - 설명  
-이 문제는 [이전 포스트](https://github.com/Overlaine-l/Baekjoon-step-by-step-Dynamic-Programming-1)의 베낭 문제와 비슷합니다. 유일한 차이점이라면, M 바이트 이상이 확보되는 순간 더 앱을 비활성화 시킬 필요가 없도록 코드를 작성해야 하는 것입니다. 이 부분은 mincost함수의 첫 번째 if문이 담당합니다.
+이 문제는 [이전 포스트](https://github.com/Overlaine-l/Baekjoon-step-by-step-Dynamic-Programming-1)의 베낭 문제와 비슷합니다. 유일한 차이점이라면, M 바이트 이상이 확보되는 순간 더 앱을 비활성화 시킬 필요가 없도록 코드를 작성해야 하는 것입니다. 이 부분은 mincost 함수의 첫 번째 if문이 담당합니다.
